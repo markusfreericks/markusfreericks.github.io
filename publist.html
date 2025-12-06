@@ -1,0 +1,272 @@
+
+<html>
+<title>Things mfx' has gotten published</title>
+<link rev="made" rel="made" href="mailto:mfx@pobox.com">
+</head>
+<body>
+
+<h1>List of Publications</h1>
+
+<i>With comments. These are not really abstracts, more like descriptions of
+the ``historic context'', i.e. the ideas current at the time those things
+were written. Everything is listed under the year of publication, not that
+of writing.</i>
+
+<h2>1990</h2>
+
+Markus Freericks, Alois Knoll:<br>
+<b>ALDiSP - eine applikative Programmiersprache f&uuml;r Anwendungen in
+der digitalen Signalverarbeitung,</b><br>
+Forschungsberichte des Fachbereichs Informatik Nr. 1990/9, TU Berlin, 147pp.
+
+<br><i>(Nothing more than my masters thesis (Diplom), stripped down a
+bit. Have you ever heard of anyone so utterly dumb to, in a fit a cleaning
+up, remove the TeX sources of his thesis after it was handed in?  Well,
+that's me.  Of course, the back-ups were several weeks out-dated.)</i>
+
+<p>
+Alois Knoll, Markus Freericks:<br>
+<b>Aldisp - An Applicative Real-Time Language for DSP
+Programming,</b><br>
+CIT/IEEE International Conference on Signal Processing, Beijing, 1990
+
+<br><i>(Presented by Alois. Short paper on the thesis language. For all
+these IEEE conferences, no good postscript versions exist -- we actually
+had to send in a paper copy on special layout pages, at 120% magnification.
+Horrible work, much manual cut-and-paste. Added to this was the task of
+cutting down the paper to 4 pages (6 would have been adequate), resulting
+in a badly lay-outed text that couldn't really explain anything.)</i>
+
+<h2>1991</h2>
+
+Rupert C. Nieberle, Stefan Koschorrek, Lutz Kosentzy and
+Markus Freericks:<br>
+<b>CAMP: Computer-Aided Music Processing,</b><br>
+Computer Music Journal Vol. 15 No. 2 (Summer 1991)
+
+<br><i>(Written in summer '89, this describes the work environment of the
+computer music group I was working with in late 88'/early '89. I only heard
+of the existence of these two papers in 1994! Originally, the second paper
+was presented at the ICMC'89 conference in Columbus, Ohio. For some reason,
+the manuscript arrived too late, and it wasn't included in the proceedings
+-- though Rupert and I made a "studio presentation". As a compensation for
+the lost paper, we were promised an article in the CMJ.)</i>
+
+<p>
+Rupert C. Nieberle and Markus Freericks:<br>
+<b>Extending an Interactive Music Environment,</b><br>
+Computer Music Journal Vol. 15 No. 2 (Summer 1991)
+
+<br><i>(Describes my "Ylem" Realtime-Scheme-in-Realtime-Forth language
+extension, which I wrote as a MS thesis (Vordiplom). Of course, I optimized too
+much, with the result that the final implementation ran quite fast, but the
+language kernel was nearly 100% 68k assembly language. A year later, the
+underlying Forth system (Formula, by Ron Kuivila and Dave Anderson), was
+rewritten and vastly improved (before, it was cooperatative multitasking,
+now it is preemptive), but this broke most anything of Ylem: before, task
+switches were explictit and I could mostly ignore them in the GC and the
+interpreter state; now, explicit locks were needed. Since I wasn't working
+actively with Ylem anymore, it became a typical "orphan language".)</i>
+
+<p>
+Alois Knoll, Markus Freericks:<br>
+<b>An applicative real-time language for DSP-programming supporting
+asynchronous data-flow concepts,</b><br>
+in: Microprocessing and Microprogramming, Vol.32, No. 1-5 (August
+1991 - Proceedings Euromicro '91), pp. 541-548
+
+<br><i>(Elaborates on the asynchronous concepts of ALDiSP.)</i>
+
+<p>
+Alois Knoll, Achim Schweikard, Markus Freericks:<br>
+<b>Eine datenflu&szlig;orientierte, funktionale Programmiersprache f&uuml;r
+die Echtzeitdatenverarbeitung,</b><br>
+in: Proze&szlig;rechensystem '91, Proceedings, Berlin, Februar 1991,<br>
+Springer Informatik-Fachberichte 269
+
+<br><i>(Mostly the same as the last entry, but re-written in German.)</i>
+
+<p>
+Markus Freericks:<br>
+<b>The nML Machine Description Formalism,</b><br>
+Forschungsberichte des Fachbereichs Informatik Nr.91-15, TU Berlin, 1991,
+41pp.
+
+<br><i>(The brain-child I am proudest of, since it is used by the largest
+number of people and doesn't succumb to featuritis in the way ALDiSP
+does. Still, there are a lot of typos and small omissions in this version
+of the nML report. Also, the yacc grammar was a mess. The report underwent
+constant revision and some minor version numbers, aquired appendices and
+lost them again.)</i>
+
+<h2>1992</h2>
+
+Markus Freericks, Alois Knoll, Lawrence Dooley:<br>
+<b>The Real-Time Programming Language ALDiSP-0: Informal
+Introduction and Formal Semantics,</b><br>
+Forschungsberichte des Fachbereichs Informatik Nr.92-26, TU Berlin, 1992,
+80pp.
+
+<br><i>(Contains most of my PhD thesis up to that point, especially the
+large section containing the formal semantics of ALDiSP, and many more
+examples. The formal semantics was rewritten quite a lot later on, though,
+and the examples section is omitted from the thesis. This is still the best
+description of ALDiSP you can find. Everything else is too cursorily or too
+technical.)</i>
+
+<p>
+Lawrence S. Dooley, Alois C. Knoll, M.A. Wahab, Andreas Fauth, Markus Freericks:<br>
+<b>A Novel Approach to the design of DSP Systems Using Minimum
+Complexity Finite State Machines,</b><br>
+1992 IEEE International Symposium on Circuits and Systems (ISCAS'92)
+
+<br><i>(Presented by Alois, I think. Explores a nifty idea originally of
+Alois and Lawrence, namely to specify a DSP system by an automaton. Things
+like unwanted resonances and overflow/underflow bugs might then be detected
+by inspection of the automaton, and removed from it by re-mapping the
+concerned translations. The result can then be used to generate VLSI. Andi
+and I implemented some of this thing to test out the ideas. Of course, it
+was slow for anything beyond 3-bit arithmetic. Also of course, we didn't
+mention that quite so explicitly in the paper ;-)</i>
+
+<p>
+Markus Freericks:<br>
+<b>The nML Machine Description Formalism (updated Version 1.2),</b><br>
+in: ESPRIT-II Project 2260 SPRITE Progress Report (Incl. Addendum 2 to
+T.A. 3) for Period June 1992-November 1992, Report No. PR-4.2, 1. Dec.
+1992, Author: SPRITE Consortium, Editor: Patrick Pype (Project Manager)
+
+<br><i>(Has most of the errors and omissions of the first report
+removed. At this point, nML is quite stable and we start to think of
+extensions. Also, it is now an official specification language in the
+CBC trajectory. (ANSI-nML can't be far away! ;-))</i>
+
+<h2>1993</h2>
+
+Markus Freericks, Alois Knoll:<br>
+<b>Formally Correct Translation of DSP Algorithms Specified in an
+Asynchronous Applicative Language,</b><br>
+1993 International Conference on Acoustics, Speech and Signal
+Processing (ICASSP'93), Minneapolis, April 27-30, 1993
+
+<br><i>(Describes the basic approach of the ALDiSP compiler, namely to turn
+an interpreter (which has to be correct, since it is derived from the
+semantics) into a compiler by adding partial evaluation to it. Yet another
+IEEE-style horror-layout paper.)</i>
+
+<p>
+Markus Freericks, Alois Knoll:<br>
+<b>Writing and Compiling DSP Algorithms in an Asynchronous Applicative
+Language,</b><br>
+International Conference on Signal Processing '93 (ICSP'93), Beijing
+
+<br><i>(Presented by Andi, who was in Peking anyhow to present a CBC
+paper. Mostly a re-hash of the "examples" section in the 92-26 TR. Yet
+another IEEE-style horror-layout paper, with additional problems due to 
+chinese printers.)</i>
+
+<p>
+Andreas Fauth, Markus Freericks, Alois Knoll:<br>
+<b>Generation of Hardware Machine Models from Instruction Set
+Descriptions,</b><br>
+in: VLSI Signal Processing, VI, Eggermont et.al. (eds), IEEE Signal
+Processing Society, 1993
+
+<br><i>(This is a paper both Andi and I are quite proud of. We had both
+been thinking about nML internal representations for a long time (a year?
+more?). Finally, we sat in the TU for a long weekend and discussed the
+Right (TM) Way to represent nML descriptions using an Grand Unified
+Model. As a result, we now have a concept of generating hardware directly
+from nML, which also proves to be the foundation of the timing and
+pipelining models (Andi's thesis will be on this). BTW: this workshop,
+while being an IEEE conference, allowed a decent publication format - no
+page restrictions, and we could send in postscript.</i>
+
+<p>
+Frank L&ouml;hr, Andreas Fauth, Markus Freericks:<br>
+<b>SIGH/SIM - An Environment for Retargetable Instruction Set
+Simulation,</b><br>
+Forschungsberichte des Fachbereichs Informatik Nr.93-43, TU Berlin, 1993,
+33pp.
+
+<br><i>(Describes Frank's Studienarbeit on an nML simulator, implementing
+many of the ideas of the VLSI'93 paper.)</i>
+
+<h2>1994</h2>
+
+Stephan Rebbelmund, Andreas Fauth, Markus Freericks:<br>
+<b>The Inspector Tool</b><br> 
+in: ESPRIT-II Project 2260 SPRITE Final Report, etc.pp.
+
+<br><i>(I am not quite sure whether that made it out of the house. Have to
+look it up sometime. I don't think i ever laid my eyes on that final
+report. I invested a lot of time and energy in the inspector tool, this is
+no vanity report ;-)</i>
+
+<p>
+Markus Freericks, Andreas Fauth, Alois Knoll:<br>
+<b>Implementation of complex DSP systems using High-Level Design
+Tools,</b><br>
+in: Signal Processing VI: Theories and Applications,<br>
+ M. Holt, C. Cowan, P. Grant, W. Sandham (Eds.),
+pp. 1329-1332,<br>
+(Proceedings of EUSIPCO-94, 7th Europ. Signal Processing Conference,
+Edinburgh, Scotland, UK, 13-16 Sept. 1994)
+
+<br><i>(Describes the CBC system in its final form.)</i>
+
+<h2>1995</h2>
+
+Markus Freericks, Andreas Fauth, Alois Knoll:<br>
+<b>A Basic Semantics for Computer Arithmetic,</b><br>
+Technischer Bericht 94/6,
+Technische Fakultät,
+Universität Bielefeld
+
+<br><i>(A formalization of the boring details surrounding computer
+arithmetic. Partly a formalization of things such as "carry", "overflow",
+"2-s complement", "saturated arithmetic" and so on. Still not
+finished. Have to do it one of these weeks.)</i>
+
+<p> 
+Andreas Fauth, Johan Van Praet, Markus Freericks: <br>
+<b>Describing Instruction Set Processors Using nML (Extended
+Version),</b><br> to be published in: Proceedings of the EDC'95
+(Europ. Design Conf.)
+
+<br><i>(Will be presented by Johan, probably. Describes the current status
+of the nML, as it is used by IMEC and by us. Also says quite a few words on
+pipeline modelling, and control flow.)</i>
+
+<h2>1996</h2>
+
+<br><i>(The first part of that year I finished up my thesis. It was
+officialy submitted on October 7.</i>
+
+<br><i>The latter half of the year was spent specifying a scalable,
+distributed application server design. Not publishable work.)</i>
+
+<h2>1997</h2>
+
+<br><i>(That year saw me writing an operating system for a mini-computer
+(the MultiKit), and server- and client-software for a graphical chat system
+(the Welt am Draht). Not publishable work.)</i>
+
+<h2>1998</h2>
+
+Markus Freericks: <br>
+<b>Design and Implementation of a Partial
+Evaluation-Based Compiler for an Asynchronous Realtime Programming Language</b>
+<br>Dissertation, Universität Bielefeld, 1997
+
+<br><i>
+
+(My PhD thesis, started in 1991, 70% finished in 1992, 99% finished in
+mid-1995, twiddled around for a year, submitted in October 1996, presented
+in September 1997, printed in April 1998. Truly "PhD theses are not
+finished, but abandoned".)
+
+</i>
+
+</body>
+</html>
