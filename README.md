@@ -18,6 +18,7 @@ So here is my new attempt at mainting ancient traditions.
 
 - a tiny ["about me" section](about.html)
 - my [annotated list of publications](publist.html), Sadly, there is nothing new since i did my PhD work. While I have written lots of documentation and some white papers, all the material is customer-related or otherwise internal.
+- i have resolved my [beef with a character](esszett.html)
 
 ### what to find here, eventually
 
