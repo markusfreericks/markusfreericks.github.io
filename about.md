@@ -16,4 +16,4 @@
 
 i can be reached under mfx@pobox.com
 
-*last update: 2025-12-07*‚
+*last update: 2025-12-07*
