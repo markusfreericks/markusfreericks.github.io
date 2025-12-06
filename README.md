@@ -31,3 +31,6 @@ So here is my new attempt at mainting ancient traditions.
 - maybe a reading list?
 - maybe the "people" list, updated?
 - the quotations file, and random quotation snippet service, if i can find out how to host it - obviously, there is no chance to run a cgi-bin in github.
+
+
+*last update: 2025-12-07*‚
