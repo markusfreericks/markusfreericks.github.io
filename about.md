@@ -2,8 +2,8 @@
 
 - Dr. Markus Freericks
 - married to the brilliant [Sarai Cole Freericks](https://www.saraicole.com/)
-- studied at TU Berlin, 1985-1990 ("Diplom-Informatiker")
-- in that time, i was part of a computer music project (CAMP), my Vordiplom work was a real-time Scheme implemenation based on an existing Forth interpreter (FORMULA, Forth Music Language) with an embedded cooperative multithreading realtime support
+- studied at TU Berlin, 1985-1990 (finished as "Diplom-Informatiker")
+- in that time, i participated in a computer music project (CAMP), an environment in which I did my Vordiplom work: a real-time Scheme implemenation based on an existing Forth interpreter (FORMULA, Forth Music Language) with an embedded cooperative multithreading realtime support
 - worked at my PhD at TU Berlin, 1990-1993, financed by an Ernst-von-Siemens stipend, in the context of an EU project ("Cathedral") in which we worked on a compiler-compiler in the telecom/signal processing domain
 - in that project, i came up with the nML machine description language. wrote some papers about that, coached students writing tools (e.g. instruction set simulators) for it
 - the thesis was about a compiler for ALDiSP, the attempt to define a functional language that could support real-time events, bz adding a new control construct (the "suspension") which was kind of the opposite of a "delay" - while delay implements call-by-need in an eager language, suspend implements an input/preconditions-driven evaluation
