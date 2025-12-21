@@ -1,14 +1,22 @@
-## People who have interesting sites
+## Persons of interest
 
-In the first decades of the WWW, homepages were the place where people published their writings. These evolved into blogs, and some old-timers still maintain these. If you are interested in basic software engineering, you could do worse than peruse these.
+- [Tom Van Vleck's](https://www.multicians.org/thvv/) [Multics](https://www.multicians.org/) site. Multics was a big operating system project, and indirect name giver for UNIX. The site links to people who worked on Multics, and contains lots of papers, articles, and anecdotes. 
+-- I regularly preach the [Three Questions About Each Bug You Find](https://www.multicians.org/thvv/threeq.html) to young developers.
 
-- [Tom Van Vleck's](https://www.multicians.org/thvv/) [Multics](https://www.multicians.org/) site. Multics was a big operating system project, and indirect name giver for UNIX. The site links to people who worked on Multics, and contains lots of papers, articles, and anecdotes. I regularly preach the [Three Questions About Each Bug You Find](https://www.multicians.org/thvv/threeq.html) to young developers.
+- [Rob Pike](http://herpolhode.com/rob/) [on github](https://github.com/robpike), one of the fathers of Unix (and plan 9, and go)
+-- [2001 Presentation The Good, the Bad, and the Ugly: The Unix Legacy](http://herpolhode.com/rob/ugly.pdf)
+-- he sometimes writes articles on the [go blog](https://go.dev/blog/all)
 
-- [Joel Spolsky](https://www.joelonsoftware.com/) was really active in the software blogging world in the [early 2000s](https://www.joelonsoftware.com/archives/). Together with [Jeff Atwood](https://blog.codinghorror.com/), he was involved in creating a small web site you might have heard about: [stack overflow](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/). These days, he works at [HASH](https://hash.ai/)
+- [Folklore](https://www.folklore.org/0-index.html) contains stories about the original Macintosh project and the people who worked there
+-- the [-2000 lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html) story
 
-- [Folklore](https://www.folklore.org/0-index.html) contains stories about the original Macintosh project. Contains the [-2000 lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html) story.
+- [Donald E. Knuth](https://cs.stanford.edu/~knuth/) still lives, and works on [the art of computer programming](https://cs.stanford.edu/~knuth/taocp.html)
+-- latest news: The first third of Volume 4C is here (the classic taocp that i have at home has 3 volumes; "Volume" 4 is about Combinatorial Algorithms and will be released in parts, since it would be too big for one printed book - 4A has 883 pages, 4B 736, 4C only 640)
 
 - [Diomidis Spinellis](https://www.spinellis.gr/) is a professor for software engineering, writes good articles about themes like code quality and debugging, and maintains a [blog](https://www.spinellis.gr/blog/contents.html)
 
-- [mjd](https://blog.plover.com/) blogs about mathematics, programming, language, history, and other interesting things. I first followed his blog because he was an active perl developer, and for maybe 10 years, i had wrote lots of perl - the first web age was stiched together with cgi-bin scripts, mostly written in perl.
+- [Joel Spolsky](https://www.joelonsoftware.com/) was really active in the software blogging world in the [early 2000s](https://www.joelonsoftware.com/archives/). Together with [Jeff Atwood](https://blog.codinghorror.com/), he was involved in creating a small web site you might have heard about: [stack overflow](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/). These days, he works at [HASH](https://hash.ai/)
 
+- [Steve Yegge](https://steve-yegge.medium.com/), while at amazon, used to write the (to me) amusing [Stevey's Drunken Blog Rants™](https://sites.google.com/site/steveyegge2/blog-rants).
+
+- [mjd](https://blog.plover.com/) blogs about mathematics, programming, language, history, and other interesting things. I first followed his blog because he was an active perl developer, and for maybe 10 years, i had wrote lots of perl - the first web age was stiched together with cgi-bin scripts, mostly written in perl.

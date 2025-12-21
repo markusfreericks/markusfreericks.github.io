@@ -1,8 +1,8 @@
-# Animals belonging to the Emperor *(resurrected(*
+# Animals belonging to the Emperor *(reconstructed)*
 
 In the good old days, i had a homepage. You could find it on www.cs.tu-berlin.de/~mfx. 
 
-At the time (end of 1993? January 1994? the very first widely avaiable browser, NCSA Mosaic, had just come out, and i was browsing the meager web on a monochrome sun sparcstation) people were doing homepages, to present themselves, their work, and to maintain link lists -- a "home page" was the start page of your browser then, and browsers didn't have much bookmark support.
+At that time (march 1994 - the very first widely avaiable browser, NCSA Mosaic, had just come out, and i was browsing the meager web on a monochrome sun sparcstation) people were doing homepages, to present themselves, their work, and to maintain link lists -- a "home page" was the start page of your browser then, and browsers didn't have much bookmark support.
 
 My homepage had a name: Tiere, die dem Kaiser gehören (animals that belong to the emperor) [explanation](animals.html).
 
@@ -32,3 +32,7 @@ So here is my new attempt at mainting ancient traditions.
 - maybe an updated rant collection (so much stuff i have an opinion about - not sure whether anyone would like to read it)
 
 *last update: 2025-12-15*
+
+---
+
+if anyone wants to see the homepage in its old glory, [the wayback machine provides](https://web.archive.org/web/20240725131225/https://mfx.dasburo.com/old-home/index.html)
