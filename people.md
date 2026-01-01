@@ -15,6 +15,8 @@
 - [Donald E. Knuth](https://cs.stanford.edu/~knuth/) still lives, and works on [the art of computer programming](https://cs.stanford.edu/~knuth/taocp.html)
 -- latest news: The first third of Volume 4C is here (the classic taocp that i have at home has 3 volumes; "Volume" 4 is about Combinatorial Algorithms and will be released in parts, since it would be too big for one printed book - 4A has 883 pages, 4B 736, 4C only 640)
 
+- the [Turing Award Clips](https://www.youtube.com/@TuringAwardeeClips/videos)
+
 - [Diomidis Spinellis](https://www.spinellis.gr/) is a professor for software engineering, writes good articles about themes like code quality and debugging, and maintains a [blog](https://www.spinellis.gr/blog/contents.html)
 
 - [Joel Spolsky](https://www.joelonsoftware.com/) was really active in the software blogging world in the [early 2000s](https://www.joelonsoftware.com/archives/). Together with [Jeff Atwood](https://blog.codinghorror.com/), he was involved in creating a small web site you might have heard about: [stack overflow](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/). These days, he works at [HASH](https://hash.ai/)
@@ -25,14 +27,14 @@
 
 - [Dave Winer's Scripting News](http://scripting.com/) is still a thing!
 
+- the [perl blogs](https://blogs.perl.org/). yes, perl still exists, and it is still perl 5.
+
 ### Current
 
 - [Casey Muratori](https://caseymuratori.com/) cares about efficiency/performance. he has a gaming engine background.
 -- he participated in a set of vidoes about how to approach the [One Billion Row Challeng](https://github.com/gunnarmorling/1brc) [in java](https://www.youtube.com/watch?v=n-YK3B4_xPA) (see also [Roy van Rijn's presentation](https://www.youtube.com/watch?v=EFXxXFHpS0M&t=2082s))
+-- [nice talk of his](https://www.youtube.com/watch?v=wo84LFzx5nI) where he goes down the rabbit hole of virtual function and class representation in C++, Simula, and ends up with tagged records in Tony Hoare's 1966 record paper. "Team Fat Struct - Founded 1960".
 
 - [Gunnar Morling](https://www.morling.dev/) [blog](https://www.morling.dev/blog/) initiated 1BRC. maybe next year he will do a new benchmark challenge?
 -- he also started MapStruct and worked on Bean Validation
 
-
-
-   

@@ -2,13 +2,13 @@
 
 In the good old days, i had a homepage. You could find it on www.cs.tu-berlin.de/~mfx. 
 
-At that time (march 1994 - the very first widely avaiable browser, NCSA Mosaic, had just come out, and i was browsing the meager web on a monochrome sun sparcstation) people were doing homepages, to present themselves, their work, and to maintain link lists -- a "home page" was the start page of your browser then, and browsers didn't have much bookmark support.
+At that time (march 1994 - the very first widely avaiable browser, NCSA Mosaic, had just come out, and i was browsing the meager web on a monochrome sun sparcstation) people were doing homepages, to present themselves, their work, and to maintain link lists (a "home page" was the start page of your browser then, and browsers didn't have much bookmark support).
 
 My homepage had a name: Tiere, die dem Kaiser gehören (animals that belong to the emperor) [explanation](animals.html).
 
 Somewhere in 1995, i had to abandon it when my PhD funding ran out; for a while, a copy could be found at Uni Bielefeld (where my Doktorvater had moved to). After that, the last snapshot was on mfx.dasburo.com (dasburo.com was the company i worked at, for more then 25 years), which is now also defunct.
 
-So here is my new attempt at mainting ancient traditions. 
+So here is my new attempt at maintaining ancient traditions. 
 
 (For simplicity's sake, this time everything will be in english - for a time, i did the index page in german/english, and had an embedded language toggle).
 
